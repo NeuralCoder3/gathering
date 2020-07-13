@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="TileSet/RPG.tsx"/>
+ <layer id="1" name="Kachelebene 1" width="15" height="15">
+  <data encoding="base64" compression="zstd">
+   JbUv/QAAAGmdAAAHCAgQCAgQCNkBAADa2wHhAQAA4uPpAQAA6usbAAD8EBg+xeCPwPApBncIhk8xcBBwOAcwBABQj+AQAPALAI0DIAgA+C0wCADg0+DQR2BIBHBwEnAYAOCnwKBFYJAAFAYAOAVDD4TAAAA=
+  </data>
+ </layer>
+ <layer id="3" name="Kachelebene 3" width="15" height="15">
+  <data encoding="base64" compression="zstd">
+   JbUv/QAAABKFAAA0AQACAAQ7/3oF/wH8gRDAAAA=
+  </data>
+ </layer>
+ <layer id="2" name="Kachelebene 2" width="15" height="15">
+  <data encoding="base64" compression="zstd">
+   JbUv/QAAADaZAAAuCgAALzAKNgoAALgCADg+CgAAP0AKAAkAAvk6/yHwKcYfACAA8ElgOkfgDsHwKYYeCAHAAAA=
+  </data>
+ </layer>
+</map>
