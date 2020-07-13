@@ -1,0 +1,22 @@
+### Text ###
+*.doc
+*.docx
+*.log
+*.msg
+*.pages
+*.rtf
+*.txt
+*.wpd
+*.wps
+
+### Images ###
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+### Other ###
+*.zip
+
+PlayingCardsIO/
+*.tiled-*
